@@ -1,0 +1,16 @@
+{
+  "name": "gist",
+  "repo": "matthewmueller/gist",
+  "description": "fluent gist api",
+  "version": "0.0.1",
+  "keywords": ["gist", "api", "fluent"],
+  "dependencies": {
+    "visionmedia/superagent": "*",
+    "visionmedia/batch": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

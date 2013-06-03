@@ -1,0 +1,12 @@
+{
+  "name": "gist.js",
+  "version": "0.0.1",
+  "description": "fluent gist api",
+  "keywords": ["gist", "api", "fluent"],
+  "author": "matthew mueller <mattmuelle@gmail.com>",
+  "dependencies": {
+    "superagent": "~0.14.6",
+    "batch": "~0.3.2"
+  },
+  "main": "index"
+}
