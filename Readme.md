@@ -1,7 +1,6 @@
-
 # gist.js
 
-  Fluent gist API for node.js and the browser.
+  Fluent gist API for node.js.
 
 ## Example
 
